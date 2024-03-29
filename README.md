@@ -1,8 +1,1 @@
-## About me:
-I am a Data Scientist and work mainly on NLP and GenAI solutions.
-
-<p align="center">
-<a href="https://github.com/rauni-iitr">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Raunak+Anand;Data+Scientist+%7C+Developer;AI+%7C+NLP+%7C+Bots" alt="Typing SVG" />
-</a>
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&duration=1000&pause=500&color=08813D&background=B10F0F00&center=true&multiline=true&random=false&width=435&lines=Raunak+Anand;Data+Scientist+%7C+Gen+AI+%7C+NLP++)](https://git.io/typing-svg)
