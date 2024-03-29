@@ -1,2 +1,2 @@
-# rauni--itr
+# rauni-iitr
 My Profile Repository
