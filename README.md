@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&duration=1000&pause=500&color=08813D&background=B10F0F00&center=true&multiline=true&random=false&width=435&lines=Raunak+Anand;Data+Scientist+%7C+Gen+AI+%7C+NLP++)
 <br/>
 
-<a href="https://github.com/drkostas">
+<a href="https://github.com/rauni-iitr">
     <img src="https://github-stats-alpha.vercel.app/api?username=rauni-iitr&cc=22272e&tc=08813DFF&ic=fff&bc=0000">
 </a>
 <br>
