@@ -7,7 +7,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=rauni-iitr&cc=22272e&tc=08813DFF&ic=fff&bc=0000">
 </a>
 <br>
-<a href="[https://drive.google.com/file/d/1GSZLPiG0IWo6W7grQdGYIbEVBcZjrwrd/view?usp=share_link](https://drive.google.com/file/d/1HlWIRgL3Sx95QgJlinnlo5MrapXG7MBJ/view?usp=drive_link)">
+<a href="https://drive.google.com/file/d/1HlWIRgL3Sx95QgJlinnlo5MrapXG7MBJ/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-red?style=fsocial&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/raunak-7068/">
